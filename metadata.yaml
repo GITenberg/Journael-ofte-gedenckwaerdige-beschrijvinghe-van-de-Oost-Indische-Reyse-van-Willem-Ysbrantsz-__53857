@@ -1,0 +1,31 @@
+_repo: Journael-ofte-gedenckwaerdige-beschrijvinghe-van-de-Oost-Indische-Reyse-van-Willem-Ysbrantsz-__53857
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bontekoe, Willem Ysbrantsz.
+    birthdate: 1587
+    gutenberg_agent_id: '47580'
+    url: http://www.gutenberg.org/2009/agents/47580
+  editor:
+    agent_name: Hoogewerff, G. J. (Godefridus Joannes)
+    alias: Hoogewerff, Godefridus Joannes
+    birthdate: 1884
+    gutenberg_agent_id: '47581'
+    url: http://www.gutenberg.org/2009/agents/47581
+description: ''
+gutenberg_issued: '2017-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53857'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indonesia -- Description and travel -- Early works to 1800'
+- !lcc 'DS'
+- !lcsh 'Voyages and travels -- Early works to 1800'
+- GITenberg
+title: Journael ofte gedenckwaerdige beschrijvinghe van de Oost-Indische Reyse van
+  Willem Ysbrantsz. Bontekoe
+url: http://www.gutenberg.org/ebooks/53857
